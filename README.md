@@ -18,8 +18,20 @@ This project demonstrates how to:
 🧱 Features
 
 ✅ Pure HTML — no CSS or JS
+
 ✅ Fully responsive on mobile (via meta viewport)
+
 ✅ SEO-optimized meta tags (title, description, keywords, author)
+
 ✅ Embedded Google Map with customizable location
+
 ✅ mailto: form submission option
+
+🧠 How It Works
+
+* User fills the form with their name, email, and message.
+
+* When they click Send Message, their default email app opens (like Gmail or Outlook) with the form data.
+
+* The Google Map iframe displays your address or any location you choose.
 
