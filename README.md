@@ -35,3 +35,8 @@ This project demonstrates how to:
 
 * The Google Map iframe displays your address or any location you choose.
 
+🧑‍💻 Author
+
+Dhirendra Jha
+BCA Student | Web Developer | Member of Google Developer Student Club
+📍 Darbhanga, Bihar, India
