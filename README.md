@@ -15,3 +15,11 @@ This project demonstrates how to:
 
 * Use mailto in the form’s action attribute to send messages directly via email client (no backend required).
 
+🧱 Features
+
+✅ Pure HTML — no CSS or JS
+✅ Fully responsive on mobile (via meta viewport)
+✅ SEO-optimized meta tags (title, description, keywords, author)
+✅ Embedded Google Map with customizable location
+✅ mailto: form submission option
+
